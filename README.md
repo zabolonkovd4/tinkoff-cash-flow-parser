@@ -1,1 +1,1 @@
-# tinkoff_cash_flow_parser
+# tinkoff-cash-flow-parser
